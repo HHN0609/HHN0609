@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @HHN0609
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning webpack and vue3
-- 📫 My email address is hehaonan0609@qq.com
+- 👋 Hi, I’m @HHN0609.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning webpack5 and vue3.
+- 🌱 Focus on low code and data visualization. 
+- 📫 My email address is hehaonan2001@163.com.
 
 <!---
 HHN0609/HHN0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
