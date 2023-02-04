@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HHN0609.
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning webpack5 and vue3.
+- 🌱 I’m currently learning vite and typescript.
 - 🌱 Focus on low code and data visualization. 
 - 📫 My email address is hehaonan2001@163.com.
 
